@@ -1,0 +1,10 @@
+* {
+    color: #fff;
+    box-sizing: border-box;
+}
+
+.blue {
+    background-color: #000;
+    border-radius: 8px;
+    padding: 16px;
+}
